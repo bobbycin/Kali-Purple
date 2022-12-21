@@ -27,11 +27,20 @@ tbd
 ## Usage
 
 [![OPNsense dashboard](./pictures/Elastic-01-Dashboard-OPNsense.png)](./pictures/Elastic-01-Dashboard-OPNsense.png)  
+
 [![SQL injection](./pictures/SQL-Injection-01.png)](./pictures/SQL-Injection-01.png)  
+
 [![SQL injection WAF](./pictures/SQL-Injection-03-WithWAF.png)](./pictures/SQL-Injection-03-WithWAF.png)  
+
 [![SQL injection WAF](./pictures/GVM-01-Overview.png)](./pictures/GVM-01-Overview.png)  
+
 [![Unbound dashboard](./pictures/Elastic-05-Dashboard-Unbound.png)](./pictures/Elastic-05-Dashboard-Unbound.png)  
 
+[![Malcolm Arkime](./pictures/Malcolm-01-Arkime.png)](./pictures/Malcolm-01-Arkime.png)  
+
+[![Malcolm dashboard](./pictures/Malcolm-10-Dashboard.png)](./pictures/Malcolm-10-Dashboard.png)  
+
+[![Malcolm CyberChef](./pictures/Malcolm-06-CyberChef.png)](./pictures/Malcolm-06-CyberChef.png)  
 
 ## Roadmap
 
