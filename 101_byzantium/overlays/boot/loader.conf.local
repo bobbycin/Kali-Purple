@@ -1,5 +1,0 @@
-# Enable serial console
-boot_multicons="YES"
-boot_serial="YES"
-comconsole_speed="115200"
-console="comconsole,vidconsole"
